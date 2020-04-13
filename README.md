@@ -14,6 +14,29 @@
 </p>
 
 
+
+<h2>1.0	Introduction</h2>
+<p>
+	Overall, bike accidents have declined over the past decade due to advocacy efforts. However, that does not mean that they don’t still happen. As more riders take to the road, the likelihood of a bicycle related collision also increases. According to statistics provided by Pedbikeinfo, in 2017, 783 bicyclists were involved in fatal crashes with motor vehicles in the United States. In 2003, pedestrians and bicyclists represented 12.6 percent of total traffic fatalities, and in 2017 they accounted for 18.2 percent of fatalities. “The majority of bicyclevehicle collisions occur in urban areas, according to the National Highway Traffic Safety Administration” ("Bike Accidents: Collisions with Cars at Intersections" 2018). Of all collisions that involve a motor vehicle and bicycle, nearly half occur at intersections. 
+ </p>
+ <p>
+Traditionally, when a cyclist approaches a junction, they will use hand signals seen in figure 1, to indicate to the surrounding vehicles and pedestrians around them of their intended direction. Simultaneously, they will have to use their other hand which is still on the handlebar to brake and slow down and prepare for the maneuver. In addition, they will also have to turn their heads to check if the path is clear to complete the maneuver. In the event where the path is suddenly blocked (i.e. – another vehicle cuts off the cyclist or pedestrian jaywalking), the cyclist who has taken one hand off the handlebar has already lost 50% of their braking capability and stability and often will not be able to efficiently react to the situation. </p>
+
+<h2>1.1	Concept </h2>
+ <p>
+	The idea is to develop a solution to the traditional signaling method using the cyclists existing equipment and minimal additions, where the cyclist still has 100% braking capabilities and simultaneously informing drivers and pedestrians of their turning intentions. 
+	The solution should be, so the cyclist won’t have to take their hands off the handlebar and only have to turn their heads to make the turns. This is achieved by using a smart phone GPS features, a mobile application that uses the GoogleMaps API (or other Mapping sources), and a Bluetooth connected LED strip that blinks to indicate the signals. 
+ </p>
+   
+<h2>1.2	Existing Products</h2>
+ <p>
+Cyclists wear reflective and often bright LED lights to create more presence and awareness on the road. In addition to their safety apparel cyclist will use hand gestures to inform other vehicles of their intentions. Unfortunately, these hand gestures are often discarded by other drivers or even ignored.  
+Another issue with using hand signals, is that sometimes this form of communication to other drivers of the road is confusing and easily misinterpreted, some drivers mistaken a hand gesture to ‘stop’, for a signal to ‘turn left’, an example of this hand signals can be seen in figure 2.
+ </p>
+
+
+
+
 <h2>video of the application running</h2>
 
 https://drive.google.com/file/d/1j0elSi6xI9AaQ-i2GIYqU5caYlJq94we/view?usp=sharing
