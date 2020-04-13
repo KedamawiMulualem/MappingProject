@@ -20,5 +20,5 @@
 
 <h2>video</h2>
 
-[![Watch the video](https://drive.google.com/file/d/1j0elSi6xI9AaQ-i2GIYqU5caYlJq94we/view)
+[![Watch the video](https://drive.google.com/file/d/1j0elSi6xI9AaQ-i2GIYqU5caYlJq94we/view?usp=sharing)
 
