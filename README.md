@@ -1,4 +1,4 @@
 # MappingProject
 <h2>Input picture</h2>
 
-![](MappingProject/Screen Shot 2020-04-12 at 8.00.17 PM.png)
+![](/Screen Shot 2020-04-12 at 8.00.17 PM.png)
