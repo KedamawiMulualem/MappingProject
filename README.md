@@ -1,6 +1,10 @@
 # MappingProject
 
 <h1>Hands-Free Signaling</h1>
+
+![](https://github.com/KedamawiMulualem/MappingProject/blob/master/Screen%20Shot%202020-04-12%20at%208.53.33%20PM.png)
+![](https://github.com/KedamawiMulualem/MappingProject/blob/master/Screen%20Shot%202020-04-12%20at%208.53.45%20PM.png)
+
 <h2>Abstract</h2>
 <p>
   Cycling has been around for hundreds of years and will still be around for many more. With modern infrastructure accommodating motor vehicles and bicycles on the same shared road and pedestrians on pavements. It is important that motor vehicles and pedestrians are aware of a cyclist’s presence as collisions can be cataphoric and can lead to serious injuries or even death. Most fatal bicycle collisions occur at an intersection or at a turn. Traditionally, when a cyclist is going to make a turn at an intersection, they will use their arms and hands to signal to other vehicles and pedestrians of their intention. However, when they remove their hands off the handle bar to make the signal, they lose 50% of their braking capabilities and stability.
